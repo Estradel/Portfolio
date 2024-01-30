@@ -16,6 +16,7 @@
 **UPsi Jam 3.0**
 
 Every choice you make can lead Jean to glory or disaster. What will you choose? Don't hesitate to replay the game, skipping the dialogues to discover all the branching paths!
+
 This game was made in 48h during the UPsi Jam 3.0. The theme was *"It is not supposed to do that"*.
 
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/771fa2c8-3564-4c2f-b101-b9d136122b69" width="300"/>
@@ -28,6 +29,7 @@ Link: [https://estradel.itch.io/doki-doki-engineering-club](https://estradel.itc
 **UPsi Jam 2.0**
 
 Overcome physical challenges, persuade more followers to join you and use them as literal ammunition to vanquish all who try to oppose you on your journey to world fame.
+
 This game was made in 48h during the UPsi Jam 2.0. The theme was *"Always More"*.
 
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/fa840659-e96a-4eb3-aabb-1e22f7bf5db9" width="300"/>
@@ -40,6 +42,7 @@ Link: [https://estradel.itch.io/bae](https://estradel.itch.io/bae)
 **UPsi Jam 1.0**
 
 In this arcade-style score racking game, you control a falling piece of toast on its way to the carpet. Your job is to stack the most amount of delicious condiments on the toast, all the while dodging flies and hands, and ultimately landing face-down on the carpet.
+
 This game was made in 48h during the UPsi Jam 1.0. The theme was *"Upside Down"*.
 
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/cfc05d9e-c3cd-4e40-a66d-dce2a38f6f00" width="300"/>
