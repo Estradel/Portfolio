@@ -29,6 +29,8 @@ This game was made in 48h during the UPsi Jam 4.0 and reached 1st place. The the
 
 Link: [https://estradel.itch.io/doki-doki-engineering-club](https://estradel.itch.io/ship-the-sheep)
 
+Source code: [https://github.com/Estradel/ShipTheSheep](https://github.com/Estradel/ShipTheSheep)
+
 ### Doki Doki Engineering Club (2023)
 **UPsi Jam 3.0**
 
