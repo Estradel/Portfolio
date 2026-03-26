@@ -20,7 +20,7 @@
 In Brain Storm, you play as the little workers in your head making sure the brain is able to visualize a blue horse, a green cat or a red eiffel tower!
 The brain is full memory fragments, and it's your job to make sure the brain sees the right ones by mixing and matching these fragments.
 
-This game was made in 48h during the UPsi Jam 6.0. The theme was *"Everything is a resource"*.
+This game was made in 48h during the UPsi Jam 6.0 and reached 1st place (Raw score). The theme was *"Everything is a resource"*.
 
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/69a82d14-debc-4b38-9351-897bb9ed483c" width="300"/>
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/f4b51d32-40fb-415e-94b7-85c7e585afae" width="300"/>
