@@ -25,7 +25,7 @@ This game was made in 48h during the UPsi Jam 6.0. The theme was *"Everything is
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/69a82d14-debc-4b38-9351-897bb9ed483c" width="300"/>
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/f4b51d32-40fb-415e-94b7-85c7e585afae" width="300"/>
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/278a5148-2d1c-415c-ba12-84901d534e49" width="300"/>
-<img src="https://github.com/Estradel/Portfolio/assets/34025682/7382c0bb-6da9-4853-aa4d-2b38394e1c29" width="300"/>
+<img src="https://img.itch.zone/aW1nLzI2MjY1NDA1LmdpZg==/original/wpCODz.gif" width="300"/>
 
 
 Link: [https://estradel.itch.io/brainstorm](https://estradel.itch.io/brainstorm)
