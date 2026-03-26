@@ -20,11 +20,12 @@
 In Brain Storm, you play as the little workers in your head making sure the brain is able to visualize a blue horse, a green cat or a red eiffel tower!
 The brain is full memory fragments, and it's your job to make sure the brain sees the right ones by mixing and matching these fragments.
 
-This game was made in 48h during the UPsi Jam 6.0 and reached 1st place. The theme was *"Everything is a resource"*.
+This game was made in 48h during the UPsi Jam 6.0. The theme was *"Everything is a resource"*.
 
-<img src="https://github.com/Estradel/Portfolio/assets/34025682/5a96b28e-da29-4cfd-8f09-1258034beeda" width="300"/>
-<img src="https://github.com/Estradel/Portfolio/assets/34025682/6d61ac3c-4e74-41fc-bdf9-d83be714492f" width="300"/>
-<img src="https://github.com/Estradel/Portfolio/assets/34025682/83f6d277-87d8-4976-80a7-42d405c551f8" width="300"/>
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/69a82d14-debc-4b38-9351-897bb9ed483c" width="300"/>
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/f4b51d32-40fb-415e-94b7-85c7e585afae" width="300"/>
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/278a5148-2d1c-415c-ba12-84901d534e49" width="300"/>
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/7382c0bb-6da9-4853-aa4d-2b38394e1c29" width="300"/>
 
 
 Link: [https://estradel.itch.io/brainstorm](https://estradel.itch.io/brainstorm)
