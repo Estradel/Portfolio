@@ -14,7 +14,7 @@
 
 ## Game Jams
 
-### Brainstorm (2026)
+### Brain Storm (2026)
 **UPsi Jam 6.0**
 
 In Brain Storm, you play as the little workers in your head making sure the brain is able to visualize a blue horse, a green cat or a red eiffel tower!
