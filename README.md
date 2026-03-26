@@ -53,9 +53,9 @@ This game was made in 48h during the UPsi Jam 5.0 and reached 3rd place. The the
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/32ec9534-7046-4c9b-9afa-04a499c50de6" width="300"/>
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/3c1e04d4-439d-4dc2-92ce-4d8d3537a13a" width="300"/>
 
-Link: [https://github.com/Estradel/One-Way-Street](https://github.com/Estradel/One-Way-Street)
+Link: [https://estradel.itch.io/one-way-street](https://estradel.itch.io/one-way-street)
 
-Source code: [https://estradel.itch.io/one-way-street](https://estradel.itch.io/one-way-street)
+Source code: [https://github.com/Estradel/One-Way-Street](https://github.com/Estradel/One-Way-Street)
 
 ### Ship the Sheep (2024)
 **UPsi Jam 4.0**
