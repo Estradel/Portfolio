@@ -70,7 +70,7 @@ This game was made in 48h during the UPsi Jam 4.0 and reached 1st place. The the
 <img src="https://github.com/Estradel/Portfolio/assets/34025682/83f6d277-87d8-4976-80a7-42d405c551f8" width="300"/>
 
 
-Link: [(https://estradel.itch.io/ship-the-sheep](https://estradel.itch.io/ship-the-sheep)
+Link: [https://estradel.itch.io/ship-the-sheep](https://estradel.itch.io/ship-the-sheep)
 
 Source code: [https://github.com/Estradel/ShipTheSheep](https://github.com/Estradel/ShipTheSheep)
 
