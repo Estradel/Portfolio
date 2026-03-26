@@ -32,6 +32,31 @@ Link: [https://estradel.itch.io/brainstorm](https://estradel.itch.io/brainstorm)
 
 Source code: [https://github.com/Estradel/Brainstorm](https://github.com/Estradel/Brainstorm)
 
+### One Way Street (2025)
+**UPsi Jam 5.0**
+
+One hand on the wheel, one hand on the phone. Which hand will burn first?
+A short story putting you in the driver's seat.
+
+> **Backstory** <br>
+> You play as the Driver. <br>
+> Your favorite activity? driving. <br>
+> You are minding your business enjoying the open lane when you hear that familiar ping: You received a text message. <br>
+> You know you shouldn't look, but what if it's important? <br>
+> Will you get to the bottom of this text exchange? Will you crash and burn, victim of your own hubris? <br>
+> Anyway, you should never split your attention while driving. <br>
+> There are 4 alternative endings. Only one is winning. Will you be able to find it ? <br>
+
+This game was made in 48h during the UPsi Jam 5.0 and reached 3rd place. The theme was *"Split"*.
+
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/7155b3e2-a0d1-4b31-b123-8e637b4f7430" width="300"/>
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/32ec9534-7046-4c9b-9afa-04a499c50de6" width="300"/>
+<img src="https://github.com/Estradel/Portfolio/assets/34025682/3c1e04d4-439d-4dc2-92ce-4d8d3537a13a" width="300"/>
+
+Link: [https://github.com/Estradel/One-Way-Street](https://github.com/Estradel/One-Way-Street)
+
+Source code: [https://estradel.itch.io/one-way-street](https://estradel.itch.io/one-way-street)
+
 ### Ship the Sheep (2024)
 **UPsi Jam 4.0**
 
